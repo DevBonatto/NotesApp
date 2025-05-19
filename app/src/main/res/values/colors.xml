@@ -2,4 +2,32 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="grey">#242B2E</color>
+
+    <!-- Cores para o tema Theme.NoteApp -->
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+
+    <color name="color1">#FF5733</color>
+    <color name="color2">#33FFBD</color>
+    <color name="color3">#3380FF</color>
+    <color name="color4">#DA33FF</color>
+    <color name="color5">#8DFF33</color>
+    <color name="color6">#FF33A6</color>
+    <color name="color7">#33FFF3</color>
+    <color name="color8">#FF8C33</color>
+    <color name="color9">#A633FF</color>
+    <color name="color10">#33FF57</color>
+    <color name="color11">#FF3333</color>
+    <color name="color12">#33A1FF</color>
+    <color name="color13">#FFD633</color>
+    <color name="color14">#9D33FF</color>
+    <color name="color15">#33FF8C</color>
+    <color name="color16">#FF33D1</color>
+    <color name="color17">#33E1FF</color>
+    <color name="color18">#FFB533</color>
+    <color name="color19">#7033FF</color>
+    <color name="color20">#33FF44</color>
 </resources>
